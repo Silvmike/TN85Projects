@@ -1,0 +1,6 @@
+*.asmproj
+*.atsln
+*.hex
+Debug/
+.vs/
+*.componentinfo.xml
